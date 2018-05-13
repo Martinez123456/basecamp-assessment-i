@@ -72,3 +72,4 @@ return 'Hi! I am ' + name + ' and I am ' + number + ' years old';
 };
 greeter(Esmeralda, 18);
 // CODE HERE
+//Completed
